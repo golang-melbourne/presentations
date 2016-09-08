@@ -2,7 +2,7 @@ Links to the presentations given at the Golang Melbourne meetup, in reverse chro
 
 # Topic presentations
 
-* [Buildkite loves Golang](https://speakerdeck.com/keithpitt/buildkite-loves-golang)
+* [Buildkite loves Golang](https://speakerdeck.com/keithpitt/buildkite-loves-golang) by Keith Pitt
 * [Go 1.7: What's new and shiny?](https://speakerdeck.com/golangmelbourne/go-1-dot-7-whats-new-and-shiny) by Arjen Schwarz
 * [Deploy with Confidence using Pact Go!](http://www.slideshare.net/DiUSComputing/deploy-with-confidence-using-pact-go) by Matthew Fellows
 * gRPC and Microservices by Jonathan Gomez
